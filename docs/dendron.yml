@@ -19,6 +19,8 @@ site:
         action: useVault
         payload:
             - vault
+    siteUrl: https://petrovs12.github.io
+    assetsPrefix: /newTry
 commands:
     lookup:
         note:

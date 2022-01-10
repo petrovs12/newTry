@@ -1,0 +1,26 @@
+{
+  "name": "newTry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrovs12/newTry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrovs12/newTry/issues"
+  },
+  "homepage": "https://github.com/petrovs12/newTry#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.76.0"
+  }
+}
